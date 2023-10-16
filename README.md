@@ -51,9 +51,7 @@
   <a href="https://github.com/devesh192/github-readme-streak-stats">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devesh192&theme=midnight-purple" />
   </a>
-  <a href="https://github.com/devesh192/github-readme-activity-graph">
-  <img src="https://activity-graph.herokuapp.com/graph?username=devesh192&theme=elegant" />
-  </a>
+  
  </p>
  <br/>
  </details>
@@ -64,7 +62,9 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
+<a href="https://github.com/devesh192/github-readme-activity-graph">
+  <img src="https://activity-graph.herokuapp.com/graph?username=devesh192&theme=elegant" />
+  </a>
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
