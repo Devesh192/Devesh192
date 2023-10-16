@@ -1,6 +1,3 @@
-
-
-
 <img align="left" src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" width="80">
 <h2> Hi, Folks! Thanks for stopping by...😊</h2>
 
@@ -42,26 +39,26 @@
 </p>
 
 
-<!---
+
 ### ⚡ GIHUB 
-<details> 
+
  <summary> 💻 Profile Stats </summary>
  <br/>
  <p align="center">
-  <a href="https://github.com/Ksound22/github-readme-stats">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ksound22&theme=midnight-purple&show_icons=true" />
+  <a href="https://github.com/devesh192/github-readme-stats">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=devesh192&theme=midnight-purple&show_icons=true" />
   </a>
-  <a href="https://github.com/Ksound22/github-readme-streak-stats">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ksound22&theme=midnight-purple" />
+  <a href="https://github.com/devesh192/github-readme-streak-stats">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devesh192&theme=midnight-purple" />
   </a>
-  <a href="https://github.com/Ksound22/github-readme-activity-graph">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Ksound22&theme=elegant" />
+  <a href="https://github.com/devesh192/github-readme-activity-graph">
+  <img src="https://activity-graph.herokuapp.com/graph?username=devesh192&theme=elegant" />
   </a>
  </p>
  <br/>
  </details>
 
-
+<!---
  - 👋 Hi, I’m @Devesh192
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
