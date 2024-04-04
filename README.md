@@ -1,9 +1,8 @@
 <img align="left" src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" width="80">
+<br>
 <h2> Hi, Folks! Thanks for stopping by...😊</h2>
 
 <br clear="left" />
-<br>
-<br>
 
 <img align="right" src="https://github.com/ShruAgarwal/ksound22/blob/main/cover.gif" width="250">
 
