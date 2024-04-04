@@ -2,6 +2,8 @@
 <h2> Hi, Folks! Thanks for stopping by...😊</h2>
 
 <br clear="left" />
+<br>
+<br>
 
 <img align="right" src="https://github.com/ShruAgarwal/ksound22/blob/main/cover.gif" width="250">
 
