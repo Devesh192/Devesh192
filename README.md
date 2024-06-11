@@ -41,11 +41,11 @@
 
 ## GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=marticliment&theme=default&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+![stats](https://github-readme-stats.vercel.app/api?username=devesh192t&theme=default&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=marticliment&theme=default&hide_border=true&include_all_commits=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=devesh192&theme=default&hide_border=true&include_all_commits=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=marticliment&langs_count=10&theme=default&show_icons=true&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=devesh192&langs_count=10&theme=default&show_icons=true&hide_border=true&layout=compact)
 
 ### ⚡ GIHUB 
 
